@@ -10,7 +10,7 @@ let allVideos = [
     id: "vid_2",
   },
   {
-    name: "Confirm Password using Html CSS & js",
+    name: "Khaby lame and Zlatan Ibrahimovic🔥💨",
     src: "./media/Khaby lame and Zlatan Ibrahimovic🔥💨",
     id: "vid_3",
   },
@@ -44,16 +44,16 @@ let allVideos = [
     src: "./media/When your friend wants to pick up his girlfriend 😂",
     id: "vid_9",
   },
-  // {
-  //   name: "How to create Login Form",
-  //   src: "./media/How to create Login Form Using Html and CSS",
-  //   id: "vid_10",
-  // },
-  // {
-  //   name: "How To Make Animated Menu Icon",
-  //   src: "./media/How To Make Animated Menu Icon Using Html",
-  //   id: "vid_11",
-  // },
+  {
+    name: "HTML Snippets You Dont Know",
+    src: "./media/HTML Snippets You Dont Know",
+    id: "vid_10",
+  },
+  {
+    name: "Walking dead",
+    src: "./media/walking dead",
+    id: "vid_11",
+  },
   // {
   //   name: "How to make Read More Function",
   //   src: "./media/How to make Read More Function using Html",
